@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+*.py
+*.c
+td/
+vlogger/
+repr*
